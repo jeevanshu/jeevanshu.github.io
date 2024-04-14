@@ -1,0 +1,19 @@
+baseURL = ''
+languageCode = 'en-in'
+title = 'Jeevanshu Malhotra'
+theme = 'nostyleplease'
+email = 'jeevanshumalhotra [at] gmail.com'
+
+
+[author]
+  name = "Jeevanshu Malhotra"
+  homepage = "https://jeevanshu.github.io"
+
+[languages]
+  [languages.en]
+    contentDir = "content"
+    languageName = "English"
+[[module.mounts]]
+source = 'data'
+target = 'data'
+

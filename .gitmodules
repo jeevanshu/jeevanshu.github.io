@@ -1,0 +1,6 @@
+[submodule "blog/hugo-theme-nostyleplease"]
+	path = blog/hugo-theme-nostyleplease
+	url = https://github.com/Masellum/hugo-theme-nostyleplease
+[submodule "blog/themes/nostyleplease"]
+	path = blog/themes/nostyleplease
+	url = https://github.com/Masellum/hugo-theme-nostyleplease

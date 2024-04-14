@@ -1,0 +1,23 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "Hi, I'm Jeevanshu. I am currently working as a Site Reliability Engineer and I like to tinker with new things and interested in distributed systems, networking, linux and kubernetes."
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/jeevanshu"
+
+  [[entries.entries]]
+  title = "email: jeevanshumalhotra [at] gmail.com"
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  section = "posts"
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts/"
+
