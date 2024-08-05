@@ -21,3 +21,16 @@ title = "posts"
   show_more_text = "See archive..."
   show_more_url = "posts/"
 
+[[entries]]
+title = "TIL"
+
+  [[entries.entries]]
+  title = "Small tidbits of TILs, inspired from <a href='https://til.simonwillison.net/'>https://til.simonwillison.net/</a>"
+
+  
+  [entries.post_list]
+  section = "TIL"
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "TIL/"

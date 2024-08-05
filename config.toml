@@ -17,3 +17,7 @@ email = 'jeevanshumalhotra [at] gmail.com'
 source = 'data'
 target = 'data'
 
+[params]
+  [params.theme_config]
+    appearance = "light"
+    back_home_text = ".."
