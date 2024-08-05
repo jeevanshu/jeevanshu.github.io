@@ -1,6 +1,6 @@
 ---
 title: Linux uptime
-date: 2024-08-05T16:45:26+05:30
+date: 2024-08-04T16:45:26+05:30
 ---
 
 ## Linux uptime command
