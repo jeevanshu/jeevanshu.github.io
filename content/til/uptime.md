@@ -1,9 +1,7 @@
 ---
-title: Linux uptime
+title: Linux uptime command
 date: 2024-08-04T16:45:26+05:30
 ---
-
-## Linux uptime command
 
 There are a few commands that I run whenever I login to an unknown server including `history`, `w`, `uptime`, `lscpu`, `htop` etc
 One of the interesting commands of this bunch is `uptime`, which I only used to check how long has system been running. As the name suggests.
