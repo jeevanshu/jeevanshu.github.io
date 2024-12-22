@@ -5,7 +5,7 @@ date: 2024-08-06T11:45:26+05:30
 
 It has been a long running computer science joke that once you open vim its impossible to quit it. Its also one of the most popularly searched questions on stackoverflow https://stackoverflow.com/questions/11828270/how-do-i-exit-vim.
 
-I interact alot with vim during my work and have always relied on command `:wq` as a means of saving and exiting the editor. But I as a course of learning more efficient key binginds in vim I came accross two new commands that I hadnt used before `:x` and `ZZ`
+I interact alot with vim during my work and have always relied on command `:wq` as a means of saving and exiting the editor. But I as a course of learning more efficient key bindings in vim I came accross two new commands that I hadnt used before `:x` and `ZZ`
 
 While `:wq` always saves and exits vim, even  if there were no changes. So, this command always updates the timestamp of the file.
 
