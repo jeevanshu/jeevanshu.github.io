@@ -5,8 +5,7 @@ date: 2024-08-04T16:45:26+05:30
 
 There are a few commands that I run whenever I login to an unknown server including `history`, `w`, `uptime`, `lscpu`, `htop` etc
 One of the interesting commands of this bunch is `uptime`, which I only used to check how long has system been running. As the name suggests.
-But it also prints a one line summary of system information, which initially used only to check how long the system had been running,
-as the name suggests. However, it also prints a one-line summary of system information.
+But it also prints a one line summary of system information.
 
 This is an example of uptime command
 
